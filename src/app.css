@@ -1,0 +1,149 @@
+html,body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-y: auto; /* Allow vertical scrolling */
+  height: 100%;
+  background: linear-gradient(150deg, rgb(215, 238, 253), rgb(120, 193, 248), rgb(215, 238, 253));
+}
+
+.gridone {
+  display: grid;
+  grid-template-rows: 0.5fr 1fr;
+  gap: 20px;
+  height: 100vh;
+  width: 100%;
+}
+
+.gridtwo{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 100%;
+  width: 100%;
+}
+
+.griditem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.container {
+  opacity: 0.8;
+}
+
+.slide{
+  width: 100%;
+  max-width: 500px;
+  aspect-ratio: 1/1;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.slide img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.navbar{
+  align-items: start;
+  text-align: center;
+}
+
+.button{
+  background-color: #f05d5e; 
+  border: none;
+  color: rgb(215, 238, 253);
+  padding: 15px 32px;
+  min-width: 100px;
+  max-width: 200px;
+  text-align: center;
+  font-size: 22px;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  display: inline-block;
+  box-shadow: 0 3px #999;
+
+}
+
+
+.gamestitle {
+  text-align: center;
+  font-size: 2rem;
+  margin: 20px 0;
+}
+
+.gamessection{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  padding-bottom: 5%;
+}
+
+.gamecard {
+  width: auto;
+  height: 100%;
+  max-height: 120px;
+  border-radius: 12px;
+  padding: 25px;
+  margin: 20px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  text-align: center;
+}
+
+.gamecard h3 {
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+.gamecard img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+.quote {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 1.8rem;
+  margin-top: 20px;
+}
+.quoteorigin {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.communitytitle {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 2rem;
+}
+
+.communitysection {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 10px;
+}
+
+.communitycard {
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  text-align: center;
+}
+
+.homeicon{
+  top: 20px;
+  left: 20px;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+}
+
+

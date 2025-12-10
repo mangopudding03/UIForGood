@@ -1,0 +1,28 @@
+{
+  "mindfullness": [
+    {
+      "id": 1,
+      "title": "Box Breathing",
+        "description": "A simple breathing exercise to help reduce stress and increase focus.",
+      "url": "https://www.youtube.com/embed/tEmt1Znux58"
+    },
+    {
+      "id": 2,
+      "title": "5-4-3-2-1 Grounding Exercise",
+      "description": "A simple grounding technique to help you stay present and focused.",
+      "url": "https://www.youtube.com//embed/30VMIEmA114"
+    },
+    {
+      "id": 3,
+      "title": "4 Ways to Cope with Depression",
+      "description": "Practical strategies to manage and cope with depression.",
+      "url": "https://www.youtube.com/embed/gyQX6bU1NIY"
+    },
+    {
+      "id": 4,
+      "title": "Daily Routine for Mental Health",
+      "description": "Take small steps each day to improve your mental health and well-being.",
+      "url": "https://www.youtube.com/embed/Y9A5wuTtblw?si=2k4x1zkPq2cFlYLW"
+    }
+  ]
+}

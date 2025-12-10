@@ -1,0 +1,28 @@
+{
+  "community": [
+    {
+      "id": 1,
+      "title": "NAMI Southwest Ohio",
+      "description": "We offer understanding to anyone concerned about mental illnesses and the treatment of mental illness.",
+      "address": "420 W Loveland Ave # 101, Loveland, OH 45140"
+    },
+    {
+      "id": 2,
+      "title": "MindPeace",
+      "description": "Support groups are designed to bring members with the same issues together in order to share coping strategies and empower members with a sense of community",
+      "address": "5642 Hamilton Ave, Cincinnati, OH 45224"
+    },
+    {
+      "id": 3,
+      "title": "Somatic Resource Therapy",
+      "description": "Support your observation skills, and intervention ability to work in the present with physical sensation and movement to enhance cognitive and emotional processing,especially trauma and PTSD",
+      "address": "951 W. North Bend Rd. Suite 3-A Cincinnati, OH 45224 "
+    },
+    {
+      "id": 4,
+      "title": "Dialectical Behavior Therapy (DBT) Skills",
+      "description": "24-week commitment during which you will learn mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness skills.",
+      "address": "126 Wellington Place, Cincinnati, OH 45219"
+    }
+  ]
+}

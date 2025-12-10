@@ -1,0 +1,54 @@
+{
+  "games": [
+    {
+      "title": "Subway Surfers",
+      "category": "Games",
+      "image": "src/static/subwaysurfers.jpeg"
+    },
+    {
+      "title": "Temple Run",
+      "category": "Games",
+      "image": "src/static/templerun.jpeg"
+    },
+    {
+      "title": "Genshin Impact",
+      "category": "Games",
+      "image": "src/static/genshin.jpeg"
+    },
+    {
+      "title": "Dead By Daylight",
+      "category": "Games",
+      "image": "src/static/dbd.jpeg"
+    },
+    {
+      "title": "Candy Crush",
+      "category": "Games",
+      "image": "src/static/candycrush.jpeg"
+    },
+    {
+      "title": "Sudoku",
+      "category": "Games",
+      "image": "src/static/sudoku.jpeg"
+    },
+    {
+      "title": "Sliding Tiles",
+      "category": "Games",
+      "image": "src/static/slidingtiles.png"
+    },
+    {
+      "title": "Duolingo",
+      "category": "Games",
+      "image": "src/static/duolingo.png"
+    },
+    {
+      "title": "Trivia Quiz",
+      "category": "Games",
+      "image": "src/static/trivia.jpeg"
+    },
+    {
+      "title": "Wordle",
+      "category": "Games",
+      "image": "src/static/wordle.webp"
+    }
+  ]
+}
