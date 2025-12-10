@@ -20,8 +20,8 @@
 
   let container;
 
-  const rightimg = ["src/static/imageone.jpg", "src/static/imagethree.jpg"];
-  const leftimg = ["src/static/imagetwo.jpeg", "src/static/imagefour.avif"];
+  const rightimg = ["public/images/imageone.jpg", "public/images/imagethree.jpg"];
+  const leftimg = ["public/images/imagetwo.jpeg", "public/images/imagefour.avif"];
 
   let randomImgRight = rightimg[0];
   let randomImgLeft = leftimg[0];

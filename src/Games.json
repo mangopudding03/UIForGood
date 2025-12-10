@@ -3,52 +3,52 @@
     {
       "title": "Subway Surfers",
       "category": "Games",
-      "image": "src/static/subwaysurfers.jpeg"
+      "image": "public/images/subwaysurfers.jpeg"
     },
     {
       "title": "Temple Run",
       "category": "Games",
-      "image": "src/static/templerun.jpeg"
+      "image": "public/images/templerun.jpeg"
     },
     {
       "title": "Genshin Impact",
       "category": "Games",
-      "image": "src/static/genshin.jpeg"
+      "image": "public/images/genshin.jpeg"
     },
     {
       "title": "Dead By Daylight",
       "category": "Games",
-      "image": "src/static/dbd.jpeg"
+      "image": "public/images/dbd.jpeg"
     },
     {
       "title": "Candy Crush",
       "category": "Games",
-      "image": "src/static/candycrush.jpeg"
+      "image": "public/images/candycrush.jpeg"
     },
     {
       "title": "Sudoku",
       "category": "Games",
-      "image": "src/static/sudoku.jpeg"
+      "image": "public/images/sudoku.jpeg"
     },
     {
       "title": "Sliding Tiles",
       "category": "Games",
-      "image": "src/static/slidingtiles.png"
+      "image": "public/images/slidingtiles.png"
     },
     {
       "title": "Duolingo",
       "category": "Games",
-      "image": "src/static/duolingo.png"
+      "image": "public/images/duolingo.png"
     },
     {
       "title": "Trivia Quiz",
       "category": "Games",
-      "image": "src/static/trivia.jpeg"
+      "image": "public/images/trivia.jpeg"
     },
     {
       "title": "Wordle",
       "category": "Games",
-      "image": "src/static/wordle.webp"
+      "image": "public/images/wordle.webp"
     }
   ]
 }
