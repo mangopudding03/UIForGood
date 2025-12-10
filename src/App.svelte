@@ -48,7 +48,7 @@
       renderer: 'svg',
       loop: true,
       autoplay: true,
-      path: '/Digi.json'
+      path: '/lottie/Digi.json'
     
     });
   }
