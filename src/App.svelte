@@ -10,6 +10,7 @@
   const mindfullness = mindfullnessData.mindfullness;
   const communities = communitiesData.community;
   const games = gamesData.games;
+  
 
   let currentpage = 'home';
 
@@ -59,8 +60,6 @@
     <div class="gridone">
       <div class="griditem">
         <div class="navbar">
-          <!-- <button class="chat-button" on:click={() => navigateTo('Chat')}>Chat</button> -->
-           <button class="button" on:click={() => navigateTo('Journal')}>Journal</button>
            <button class="button" on:click={() => navigateTo('CopingStrategies')}>Relax</button>
           <button class="button" on:click={() => navigateTo('Community')}>Community</button>
           <button class="button" on:click={() => navigateTo('Games')}>Games</button>
@@ -82,6 +81,7 @@
         
       </div>
     </div>  
+
 
   {:else if currentpage === 'CopingStrategies'}
     <div class="homeicon" on:click={() => navigateTo('home')}>
@@ -117,7 +117,7 @@
     <h4 class="quoteorigin">-John Green</h4>
     <div>
       {#each communities as comm}
-        <div class="community-card">
+        <div class="communitycard">
           <h3>{comm.title}</h3>
           <p>{comm.description}</p>
           <p>{comm.address}</p>
