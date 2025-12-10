@@ -20,8 +20,8 @@
 
   let container;
 
-  const rightimg = ["public/images/imageone.jpg", "public/images/imagethree.jpg"];
-  const leftimg = ["public/images/imagetwo.jpeg", "public/images/imagefour.avif"];
+  const rightimg = ["/images/imageone.jpg", "/images/imagethree.jpg"];
+  const leftimg = ["/images/imagetwo.jpeg", "/images/imagefour.avif"];
 
   let randomImgRight = rightimg[0];
   let randomImgLeft = leftimg[0];
@@ -48,7 +48,7 @@
       renderer: 'svg',
       loop: true,
       autoplay: true,
-      path: 'src/Digi.json'
+      path: '/Digi.json'
     
     });
   }
