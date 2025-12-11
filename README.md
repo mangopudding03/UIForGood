@@ -42,6 +42,7 @@ Some of the future implementation of this UI would more so be on the functionali
 4. Add a community forum tab by partnering with the communities so that if the user goes to any of the events, they can be invited to the organizations forum and can communicate their thoughts as well as communicate with others.
 5. For the breathing tutorial. maybe it would be beneficial to have a sensor or like a dynamic animated visual that mimics breathing. 
 6. Connect them with sponsors online to help them cope with their stress and anxiety.
+7. Redesign the UI, possibly work on integrating more dynamic features, fix any underlying visual issues like spacings, padding, etc.
    
 ## Demo Video
 
